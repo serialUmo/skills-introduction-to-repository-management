@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @serialUmo
+/src/backend/database.py      @serialUmo
+/src/backend/routers/auth.py  @serialUmo
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @serialUmo
